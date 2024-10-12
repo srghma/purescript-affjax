@@ -1,5 +1,6 @@
 package:
   name: affjax
+  description: An asynchronous AJAX library built using Aff.
   publish:
     license: Apache-2.0
     version: 13.0.0
@@ -30,11 +31,6 @@ package:
     - web-dom
     - web-file
     - web-xhr
-  test:
-    main: Test.Main
-    dependencies:
-      - console
-      - effect
 workspace:
   extraPackages: {}
   packageSet:
