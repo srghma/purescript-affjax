@@ -31,7 +31,4 @@ package:
     - web-dom
     - web-file
     - web-xhr
-workspace:
-  extraPackages: {}
-  packageSet:
-    registry: 60.5.0
+workspace: {}
